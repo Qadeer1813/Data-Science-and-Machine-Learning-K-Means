@@ -9,7 +9,7 @@
 **K Means Clustering**
 
 # Project Description
-The project for this model was to cluster movies by genres and ratings to improve movie recommendations.
+The purpose for this project is to cluster movies by genres and ratings to improve movie recommendations.
 
 # Data Source
 The dataset that was used for this project can be downloaded from https://grouplens.org/datasets/movielens/
